@@ -1,4 +1,4 @@
 # git-practice
-This repository is for git lecture
-update on local repository 
-main branch  update(for rebase conflict)
+This repository is for Git lecture
+updare on local repo  
+rebase-practice update(for rebase conflict)
